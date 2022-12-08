@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning web design
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me instagram @jitendra_762
+- 📧 Email me at jitendravyas762@gmail.com
 
 <!---
 jitendravyas762/jitendravyas762 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
